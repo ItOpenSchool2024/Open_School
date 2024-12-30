@@ -1,4 +1,4 @@
-print("Hello Viewers!")
+print("Hello World!")
 print("Welcome to this session as a part of PFSC")
-name = input("Enter Name : ")
-print("Welcome Mr.", name)
+name = input("Enter your Name : ")
+print("Welcome Mr/Mrs", name)
